@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Cinzel+Decorative:wght@900&display=swap');
+.container-fluid{
+  background-color: var(--bg-color);
+}
+
+.img{
+  width:  30%;
+}
+
+.flex-column{
+  color: var(--opp-color);
+}
+.cinzel-decorative-black {
+  font-family: "Cinzel Decorative", serif;
+  font-style: italic;
+  font-size: 75px;
+}
+.caveat-brush-regular {
+  width: 70%;
+  font-family: "Caveat Brush", serif;
+  font-size: 35px;
+  font-style: normal;
+}
+
+.cinzel-ord {
+  font-family: "Cinzel", monospace;
+  font-size: large;
+  padding-left: 0.8em;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+
